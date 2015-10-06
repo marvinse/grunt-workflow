@@ -1,0 +1,10 @@
+default:
+- 'sass'
+- 'concat'
+- 'copy'
+- 'uglify'
+- 'watch'
+
+server:
+- 'express'
+- 'watch'
